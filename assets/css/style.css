@@ -1,5 +1,6 @@
 body{
   font-family: 'Quicksand', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -10,4 +11,5 @@ body{
   background-size: cover;
   color: #ffffff;
   padding: 10rem ;
+  font-family: 'Quicksand', sans-serif;
 }
